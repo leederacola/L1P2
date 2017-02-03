@@ -1,5 +1,7 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
+#include "Wrapper.h"
+#include "IntegerSequence.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
